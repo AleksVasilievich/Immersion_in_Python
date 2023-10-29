@@ -2,8 +2,8 @@ from decimal import Decimal
 
 
 MULTIPLICITY = Decimal('50.00')
-MIN_REMOVAL = Decimal('5.00')
-MAX_REMOVAL = Decimal('15.00')
+MIN_REMOVAL = Decimal('0.05')
+MAX_REMOVAL = Decimal('0.15')
 RICHNESS_SUM = Decimal('10000.00')
 RICHNESS_PERCENT = Decimal('0.10')
 
@@ -30,7 +30,8 @@ def withdraw(amount):
     global balance
     if check_multiplicity(amount):
         if amount <= balance:
-            commission = amount * ((Decimal(MAX_REMOVAL) - Decimal(MIN_REMOVAL)) / 100)
+            commission = amount * (Decimal(MAX_REMOVAL) - Decimal(MIN_REMOVAL))
+            print(commission)
             balance -= Decimal(amount + commission)
             operations.append(
                 f"Снятие с карты {amount} у.е. Процент за снятие {commission} у.е.. Итого {balance} у.е.")
@@ -52,7 +53,7 @@ def exit():
 
 
 deposit(10000)
-withdraw(4000)
+withdraw(200)
 exit()
 
 print(operations)
