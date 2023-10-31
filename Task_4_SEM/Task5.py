@@ -27,3 +27,12 @@ def func1(lst_names, lst_bases, lst_bonuses):
     return {name: base * float(award.rstrip('%')) / 100 for name, base, award in zip(lst_names, lst_bases, lst_bonuses)}
 
 print(func1(names, salaries, awards))
+
+
+'''
+Решение системы
+
+result = {names[i]: round(salary[i] * float(bonus[i].strip('%')) / 100, 2) for i in range(len(names))}
+print(result)
+
+'''

@@ -1,5 +1,1 @@
-a = 200
-b = 15
-c = (a / 100) * b
-
-print(c)
+print(sorted([1, 2, 3, 4, 5], key=lambda x: -x, reverse=True))
