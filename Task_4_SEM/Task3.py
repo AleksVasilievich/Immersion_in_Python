@@ -11,6 +11,7 @@ text = '90 48'
 
 def encode_dist(text):
     lst = sorted([int(i) for i in text.split()])   # два числа
+    print(lst)
     text_dist = {}
     for el in lst:
         text_dist[chr(el)] = el
