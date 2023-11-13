@@ -1,3 +1,5 @@
+from random import randint
+
 """
 Задание №2
 Создайте модуль с функцией внутри.
@@ -8,7 +10,6 @@
 Функция выводит подсказки “больше” и “меньше”.
 Если число угадано, возвращается истина, а если попытки исчерпаны - ложь.
 """
-from random import randint
 
 
 def func(start, stop, count):
@@ -25,7 +26,6 @@ def func(start, stop, count):
             return True
         i += 1
     return False
-
 
 
 if __name__ == '__main__':

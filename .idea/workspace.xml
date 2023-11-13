@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfffff56-5415-48af-8614-6a674a6ce4ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task_7_DZ/Task1_Derektori/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_DZ/Task1_Derektori/Task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_DZ/Task1_Derektori/test_folder/Test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_DZ/Task1_Derektori/test_folder/Test4.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_SEM/Task3_DIR/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7_DZ/Task2_Derectori/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_7_DZ/Task2_Derectori/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_DZ/Task1_Derektori/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7_DZ/Task1_Derektori/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task2_DIR/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7_SEM/Task2_DIR/Task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test1/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test1/Test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_6_SEM/Task8/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_6_SEM/Task8/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_6_SEM/Task8/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_6_SEM/Task8/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
       <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Task_4_DZ" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task2">
+  <component name="RunManager" selected="Python.__init__">
     <configuration name="Task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GB_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GB_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7_DZ/Task2_Derectori" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test1/Test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7_DZ/Task2_Derectori/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,19 +203,19 @@
     <list>
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Task3" />
+      <item itemvalue="Python.__init__" />
       <item itemvalue="Python.Task3 (1)" />
-      <item itemvalue="Python.Test1" />
       <item itemvalue="Python.Task1" />
       <item itemvalue="Python.Task1 (1)" />
       <item itemvalue="Python.Task2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Python.Task2" />
         <item itemvalue="Python.Task1 (1)" />
         <item itemvalue="Python.Task3 (1)" />
         <item itemvalue="Python.Task1" />
-        <item itemvalue="Python.Test1" />
       </list>
     </recent_temporary>
   </component>
