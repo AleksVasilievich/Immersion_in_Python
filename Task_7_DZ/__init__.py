@@ -1,10 +1,4 @@
-"""
-Из созданных на уроке и в рамках домашнего задания функций, соберите пакет для работы с файлами.
 
-Создайте файл __init__.py и запишите в него функцию rename_files
-"""
-
-code_to_write = '''
 import os
 
 def rename_files(desired_name, num_digits, source_ext, target_ext, name_range=None):
@@ -33,10 +27,3 @@ def rename_files(desired_name, num_digits, source_ext, target_ext, name_range=No
         num += 1
 
     return new_names
-'''
-
-with open("__init__.py", "w") as init_file:
-    init_file.write(code_to_write)
-
-
-#  Решение системы !!!
