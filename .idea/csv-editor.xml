@@ -3,10 +3,31 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Task_8_DZ\directory_results.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Task_8_DZ\output.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Task_8_L\biostats.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Task_8_L\biostats_new.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="&#9;" />
             </Attribute>
           </value>
         </entry>
@@ -21,6 +42,13 @@
           <value>
             <Attribute>
               <option name="separator" value="|" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Task_8_L\quest.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
