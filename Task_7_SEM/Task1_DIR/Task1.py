@@ -17,5 +17,7 @@ def fill_file(file_num, file_name):
             f.write(f'{file_int} | {file_float:.2f}\n')
 
 
-filename = "file_txt.txt"
-fill_file(file_num=7, file_name=filename)
+
+if __name__ == '__main__':
+    filename = "file_txt.txt"
+    fill_file(file_num=7, file_name=filename)

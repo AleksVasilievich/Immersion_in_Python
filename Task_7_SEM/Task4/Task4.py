@@ -17,6 +17,7 @@ from random import randbytes
 
 def func(ext, min_len=6, max_len=30, min_rand_bytes=256, max_rand_bytes=4096,
          files=42):
+
     for i in range(files):
         name = ''.join(
             choices(ascii_lowercase, k=randint(min_len, max_len))) + ext
@@ -25,7 +26,9 @@ def func(ext, min_len=6, max_len=30, min_rand_bytes=256, max_rand_bytes=4096,
             f.write(randbytes(size))
 
 
-func('.txt')
+
+if __name__ == '__main__':
+    func('.txt', files=3)
 
 
 
