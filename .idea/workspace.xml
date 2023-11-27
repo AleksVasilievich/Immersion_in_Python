@@ -5,100 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfffff56-5415-48af-8614-6a674a6ce4ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task_7_SEM/Task5_DIR/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_SEM/Task6_DIR/Task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_SEM/Task7_DIR/Task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_SEM/Task7_DIR/Test/test.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_7_SEM/Task7_DIR/Test/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_10_DZ/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_10_DZ/Task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task1_DIR/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7_SEM/Task1_DIR/Task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task1_DIR/file_txt.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7_SEM/Task1_DIR/file_txt.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_7_SEM/Task4/Task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/aahpjnnrghhyyrsqdlu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/afkebvxnkmokufmdko.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/axjfubfbkrjwpjvm.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/bfjjiaagjkcglbmfzonkj.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/btnhtqwbutnptkecdgce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/buroboenfclhqgggcqtifya.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/cssrshpxpsghaooymaxmnzybiyu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/draodlwzgztwqazejxxtfohdwfcx.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/duldygsbwvmqyvk.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/dwdfstncjcytmmhqhfpdooifk.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/dweeqzalqqbxnyqzmlohc.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/dxlvxympoysrsyrxxyidf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ewxjnird.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/fchvnqtuzihkwzuupthrsfcdko.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ffqybrjwt.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/fknyjznjhvmxlnbfbnhkj.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/fmvtgx.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/fwxnabtntlugorhcyummeqpht.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/gklmzvseyjwbmkbupzedggyqfnzn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/gpapkpdbggizfuvii.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/hdhepzweuudeclki.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/hossjhyfgudqqh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/hqpwhmkjvxbrbk.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/hthhhpwvbruoogbvcxbohjiyxqfrtr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/huspktuczkpbejbsrwkot.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ibeqftczjvflwqkpyu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ikhieljqemonmavzjvbcgycb.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/iodhwpnmo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/iyhgbsdfnsrf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/jdqjnbuvexhlnkeycgrb.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/jeztvpiodjwpcijd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/jvplxq.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ktjqsrobqzttkooaligj.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/lailflwqy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/lcutsdhb.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/lkgxhxotsyrwelxpet.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/llqnmumeboafnfcraoz.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/lnlfoydyemlbgr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/mliqtjd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/mpauadutswnqjbxco.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/mtfbflmsksfsopauetquggurwera.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/myyvzlxgedtprjqtcvix.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/mzuyqiyteyxyursdtkhlfpt.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/nhqhzhacym.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/nhtkhgotcoeddkkxyytz.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/odjryu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/opwhguagurkqvyndcokhmco.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/oxhsijqinjxajlme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/oznrecftaadtgnrume.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/pqicuzthtzwshabeupyav.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/pqqaxf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/pvhnkfbihcoqxbhuzegepzmv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/qlpcwylmyiecirzdzahipnbfxf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/qtdlsqpfffaqhazuvqczflbsw.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/rbchgu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/rghphtrzjiwfotefxxwooftolamo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/rhvchoewjnbou.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/rhxrdlonownmlrh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/sgskdqtqrwkomwgosfjbz.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/spantrqgevwfidadkvyvege.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/tfwtyhxdhrnqmtvaqmyjclzppakklh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/thaddtajmvnfdyljdajr.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/twsagudsssgawucn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ucchggrtlqouptcelv.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/uctbepytdaqryvzzbzszy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ujndgvpsjwxhgfngeiyfvtdipdmeo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/uqbxliowvab.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/wdyslmrfqhhmcczvn.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/wjeeluhqrwpamuogdsywmi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/wjhxdvawiurfoxljkptuvhkes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/wkugqti.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/wsogqvcqyrrcwawdyrniwa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/wwbvmrceifhnmi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/wxlljdajbwfq.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/xabcbkdjofarykasjrutudntpyplvt.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/xekpulzbgruscdssbigjvvdmli.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/xfxnbf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/xibiziobtzlumyobswstlfm.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/xwqspwdapwchfxzajotki.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/ydeixzyccfjends.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/zfjmuaj.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/znsygzcgazqsykxrworgmkgpie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/zofdbceypneknlga.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_7_SEM/Task4/zsuywwzzmptraicbukxi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_8_DZ/directory_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Task_8_DZ/directory_results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_5_DZ/Task1-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_5_DZ/Task1-3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +54,28 @@
       <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Test1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task7">
+  <component name="RunManager" selected="Python.Task2">
+    <configuration name="Task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GB_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10_DZ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10_DZ/Task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GB_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +89,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7_SEM/Task1_DIR/Task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GB_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10_DZ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10_DZ/Task2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,48 +133,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_6_SEM/Task3.py" />
       <option name="PARAMETERS" value="1 5 3" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_GB_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7_SEM/Task4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7_SEM/Task4/Task4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_GB_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7_SEM/Task5_DIR" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7_SEM/Task5_DIR/Task5.py" />
-      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -296,19 +206,19 @@
     <list>
       <item itemvalue="Python.Task3" />
       <item itemvalue="Python.main" />
+      <item itemvalue="Python.Task1 (1)" />
+      <item itemvalue="Python.Task2" />
       <item itemvalue="Python.Task1" />
-      <item itemvalue="Python.Task4" />
-      <item itemvalue="Python.Task5" />
       <item itemvalue="Python.Task6" />
       <item itemvalue="Python.Task7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task2" />
+        <item itemvalue="Python.Task1 (1)" />
         <item itemvalue="Python.Task7" />
         <item itemvalue="Python.Task6" />
         <item itemvalue="Python.Task1" />
-        <item itemvalue="Python.Task5" />
-        <item itemvalue="Python.Task4" />
       </list>
     </recent_temporary>
   </component>
