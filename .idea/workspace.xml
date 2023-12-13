@@ -5,10 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfffff56-5415-48af-8614-6a674a6ce4ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task_10_DZ/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_10_DZ/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_DZ/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_DZ/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_DZ/Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_DZ/subjects.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_12_L/Task9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_15_SEM/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task_5_DZ/Task1-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_5_DZ/Task1-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_11_DZ/Task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_11_DZ/Task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_11_DZ/Task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_11_DZ/Task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_11_DZ/Task3.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_11_DZ/Task3.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_11_DZ/Task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_11_DZ/Task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_11_DZ/Task4.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_11_DZ/Task4.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_11_DZ/Task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_11_DZ/Task4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,41 +66,20 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/PycharmProjects/python_GB_2/Task_6_SEM/Task3.py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aleksandr/Desktop/Git_ progect/Git_SEM_2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Task_11_DZ" />
       <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Task_7_SEM\Task7_DIR\Test" />
       <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Task_7_SEM\Task1_DER" />
       <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Task_7_DZ\Task1_Derektori" />
       <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Task_6_SEM\Task8" />
-      <recent name="C:\Users\Aleksandr\PycharmProjects\python_GB_2\Test1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task2">
-    <configuration name="Task1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_GB_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10_DZ" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10_DZ/Task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Task4">
     <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GB_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,11 +88,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7_SEM/Task1_DIR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_DZ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7_SEM/Task1_DIR/Task1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_DZ/Task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GB_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_L" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_L/Task15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,11 +130,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_10_DZ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_DZ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_10_DZ/Task2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_DZ/Task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_GB_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_DZ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_DZ/Task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_GB_2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,32 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7_SEM/Task6_DIR" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_12_DZ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7_SEM/Task6_DIR/Task6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python_GB_2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task_7_SEM/Task7_DIR" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_7_SEM/Task7_DIR/Task7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_12_DZ/Task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,19 +231,19 @@
     <list>
       <item itemvalue="Python.Task3" />
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Task1 (1)" />
-      <item itemvalue="Python.Task2" />
       <item itemvalue="Python.Task1" />
-      <item itemvalue="Python.Task6" />
-      <item itemvalue="Python.Task7" />
+      <item itemvalue="Python.Task2" />
+      <item itemvalue="Python.Task3 (1)" />
+      <item itemvalue="Python.Task4" />
+      <item itemvalue="Python.Task15" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task2" />
-        <item itemvalue="Python.Task1 (1)" />
-        <item itemvalue="Python.Task7" />
-        <item itemvalue="Python.Task6" />
+        <item itemvalue="Python.Task4" />
+        <item itemvalue="Python.Task3 (1)" />
         <item itemvalue="Python.Task1" />
+        <item itemvalue="Python.Task2" />
+        <item itemvalue="Python.Task15" />
       </list>
     </recent_temporary>
   </component>

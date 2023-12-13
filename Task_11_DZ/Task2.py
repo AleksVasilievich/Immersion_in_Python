@@ -64,3 +64,5 @@ print(archive1)  # Text is Запись 1 and number is 42. Also ['Запись 
 
 archive2 = Archive("Запись 2", 3.14)
 print(archive2)  # Text is Запись 2 and number is 3.14. Also ['Запись 1', 'Запись 2'] and [42, 3.14]
+
+# Поринято системой !
