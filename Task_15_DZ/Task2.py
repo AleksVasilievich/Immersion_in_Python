@@ -1,7 +1,7 @@
 import argparse
 import logging
 
-logging.basicConfig(filename='C:\\Users\Aleksandr\PycharmProjects\python_GB_2\Logs\log_5.log',
+logging.basicConfig(filename='rectangle_logs.log',
                     filemode='a',
                     encoding='utf-8',
                     format='{levelname} - {asctime} в строке {lineno} '
