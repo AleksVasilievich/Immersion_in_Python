@@ -1,5 +1,6 @@
 import logging
 
+
 class NegativeValueError(Exception):
     def __init__(self, value, attribute):
         self.value = value
@@ -7,19 +8,15 @@ class NegativeValueError(Exception):
         super().__init__(f"{attribute} должна быть положительной, а не {value}")
 
 
-# Создаем логгер
 logger = logging.getLogger('RectangleLogger')
 logger.setLevel(logging.INFO)
 
-# Создаем обработчик для записи логов в файл
 file_handler = logging.FileHandler('rectangle_logs.log')
 file_handler.setLevel(logging.INFO)
 
-# Создаем форматирование логов
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 file_handler.setFormatter(formatter)
 
-# Добавляем обработчик к логгеру
 logger.addHandler(file_handler)
 
 
@@ -55,8 +52,6 @@ class Rectangle:
 
     def perimeter(self):
         perimeter_value = 2 * (self.width + self.height)
-
-        # Добавляем логирование информации в файл
         logger.info(f"Вычислен периметр прямоугольника: {perimeter_value}")
 
         return perimeter_value

@@ -83,26 +83,3 @@ if __name__ == "__main__":
     rect = Rectangle(args.wi, args.he)
     print(rect.perimeter())
     print(rect.area())
-
-    # try:
-    #     width = args.w
-    #     height = args.h if args.h is not None else args.w
-    #     rectangle = Rectangle(width, height)
-    #
-    #     perimeter = rectangle.width * 2 + rectangle.height * 2
-    #     logger.info("Пользователь ввел параметры w=%s и h=%s", width, height)
-    #     logger.info("Периметр прямоугольника: %s", perimeter)
-    #
-    # except NegativeValueError as e:
-    #     logger.error(str(e))
-    #
-    # except argparse.ArgumentError as e:
-    #     logger.error("Ошибка ввода параметров 1: %s", e)
-    #
-    # except Exception as e:
-    #     logger.error("Произошла ошибка 2: %s", e)
-
-# ren = Rectangle(5, 2).area()
-# ren1 = Rectangle(3, 7).perimeter()
-# print(ren)
-# print(ren1)
