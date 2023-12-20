@@ -55,7 +55,7 @@ class Rectangle:
         - Rectangle: новый прямоугольник, полученный путем сложения двух исходных прямоугольников
         """
         width = self.width + other.width
-        perimeter = self.perimeter() + other.perimeter()
+        perimeter = self.perimeter() + other.perimeter
         height = perimeter // 2 - width
         return Rectangle(width, height)
 
@@ -69,7 +69,7 @@ class Rectangle:
         Возвращает:
         - Rectangle: новый прямоугольник, полученный путем вычитания вычитаемого прямоугольника из исходного
         """
-        if self.perimeter() < other.perimeter():
+        if self.perimeter() < other.perimeter:
             self, other = other, self
         width = abs(self.width - other.width)
         perimeter = self.perimeter() - other.perimeter()

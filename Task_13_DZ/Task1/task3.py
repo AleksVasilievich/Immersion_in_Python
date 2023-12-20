@@ -44,12 +44,12 @@ class Rectangle:
 
     def __add__(self, other):
         width = self._width + other._width
-        perimeter = self.perimeter() + other.perimeter()
+        perimeter = self.perimeter() + other.perimeter
         height = perimeter / 2 - width
         return Rectangle(width, height)
 
     def __sub__(self, other):
-        if self.perimeter() < other.perimeter():
+        if self.perimeter() < other.perimeter:
             self, other = other, self
         width = abs(self._width - other._width)
         perimeter = self.perimeter() - other.perimeter()

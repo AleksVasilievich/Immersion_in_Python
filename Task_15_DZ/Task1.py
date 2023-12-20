@@ -4,6 +4,7 @@
 как при создании объекта, так и при установке их через сеттеры.
 '''
 
+
 class Rectangle:
     """
     Класс, представляющий прямоугольник.
@@ -102,7 +103,5 @@ class Rectangle:
         return f"Rectangle({self.width}, {self.height})"
 
 
-
-    
-ren = Rectangle(5, 9)
+ren = Rectangle(5, 0)
 print(ren)
